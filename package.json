@@ -47,7 +47,7 @@
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^14.1.0",
-    "@react-native-community/eslint-config": "^3.0.1",
+    "@react-native-community/eslint-config": "^2.0.0",
     "@react-navigation/bottom-tabs": ">=6.0.9",
     "@react-navigation/native": ">=6.0.6",
     "@release-it/conventional-changelog": "^3.3.0",
